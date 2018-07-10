@@ -1,0 +1,13 @@
+C:\Users\thebr\Documents\Visual Studio 2017\Projects\Experiment2\Experiment2\bin\Debug\Experiment2.exe.config
+C:\Users\thebr\Documents\Visual Studio 2017\Projects\Experiment2\Experiment2\bin\Debug\Experiment2.exe
+C:\Users\thebr\Documents\Visual Studio 2017\Projects\Experiment2\Experiment2\bin\Debug\Experiment2.pdb
+C:\Users\thebr\Documents\Visual Studio 2017\Projects\Experiment2\Experiment2\bin\Debug\Dapper.dll
+C:\Users\thebr\Documents\Visual Studio 2017\Projects\Experiment2\Experiment2\bin\Debug\Dapper.xml
+C:\Users\thebr\Documents\Visual Studio 2017\Projects\Experiment2\Experiment2\obj\Debug\Experiment2.csprojAssemblyReference.cache
+C:\Users\thebr\Documents\Visual Studio 2017\Projects\Experiment2\Experiment2\obj\Debug\Experiment2.Properties.Resources.resources
+C:\Users\thebr\Documents\Visual Studio 2017\Projects\Experiment2\Experiment2\obj\Debug\Experiment2.StockInventoryForm.resources
+C:\Users\thebr\Documents\Visual Studio 2017\Projects\Experiment2\Experiment2\obj\Debug\Experiment2.csproj.GenerateResource.cache
+C:\Users\thebr\Documents\Visual Studio 2017\Projects\Experiment2\Experiment2\obj\Debug\Experiment2.csproj.CoreCompileInputs.cache
+C:\Users\thebr\Documents\Visual Studio 2017\Projects\Experiment2\Experiment2\obj\Debug\Experiment2.csproj.CopyComplete
+C:\Users\thebr\Documents\Visual Studio 2017\Projects\Experiment2\Experiment2\obj\Debug\Experiment2.exe
+C:\Users\thebr\Documents\Visual Studio 2017\Projects\Experiment2\Experiment2\obj\Debug\Experiment2.pdb
